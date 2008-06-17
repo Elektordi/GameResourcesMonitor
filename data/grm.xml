@@ -1,0 +1,94 @@
+<?xml version="1.0" standalone="yes"?>
+<GRM xmlns="GameResourcesMonitor">
+  <Resources id="0">
+    <type>Métaux</type>
+    <prod>576</prod>
+    <delay>60</delay>
+    <sync>2008-06-17T18:11:41.421875+02:00</sync>
+    <baseqte>967</baseqte>
+  </Resources>
+  <Resources id="1">
+    <type>Naquadah</type>
+    <prod>308</prod>
+    <delay>60</delay>
+    <sync>2008-06-17T18:11:44.125+02:00</sync>
+    <baseqte>17117</baseqte>
+  </Resources>
+  <Resources id="2">
+    <type>Nourriture</type>
+    <prod>319</prod>
+    <delay>60</delay>
+    <sync>2008-06-17T18:11:50.59375+02:00</sync>
+    <baseqte>56295</baseqte>
+  </Resources>
+  <Alertes id="0">
+    <text>Paquetage militaire lvl8</text>
+    <warn>0</warn>
+  </Alertes>
+  <Alertes id="2">
+    <text>Porte des étoiles lvl4</text>
+    <warn>1</warn>
+  </Alertes>
+  <Alertes id="3">
+    <text>* Limite Métaux</text>
+    <warn>1</warn>
+  </Alertes>
+  <Alertes id="4">
+    <text>* Limite Naquadah</text>
+    <warn>1</warn>
+  </Alertes>
+  <Alertes id="5">
+    <text>* Limite Nourriture</text>
+    <warn>1</warn>
+  </Alertes>
+  <Alertes id="7">
+    <text>Tech. Naquadah lvl3</text>
+    <warn>0</warn>
+  </Alertes>
+  <Alertes id="8">
+    <text>Laboratoire lvl5</text>
+    <warn>0</warn>
+  </Alertes>
+  <ResAlerte alerte="0" res="0">
+    <qte>5363</qte>
+  </ResAlerte>
+  <ResAlerte alerte="0" res="1">
+    <qte>0</qte>
+  </ResAlerte>
+  <ResAlerte alerte="0" res="2">
+    <qte>5363</qte>
+  </ResAlerte>
+  <ResAlerte alerte="7" res="1">
+    <qte>2166</qte>
+  </ResAlerte>
+  <ResAlerte alerte="7" res="2">
+    <qte>1083</qte>
+  </ResAlerte>
+  <ResAlerte alerte="3" res="0">
+    <qte>47000</qte>
+  </ResAlerte>
+  <ResAlerte alerte="5" res="2">
+    <qte>84000</qte>
+  </ResAlerte>
+  <ResAlerte alerte="2" res="0">
+    <qte>20000</qte>
+  </ResAlerte>
+  <ResAlerte alerte="2" res="1">
+    <qte>60000</qte>
+  </ResAlerte>
+  <ResAlerte alerte="2" res="2">
+    <qte>20000</qte>
+  </ResAlerte>
+  <ResAlerte alerte="4" res="1">
+    <qte>84000</qte>
+  </ResAlerte>
+  <ResAlerte alerte="8" res="0">
+    <qte>4800</qte>
+  </ResAlerte>
+  <ResAlerte alerte="8" res="1">
+    <qte>4000</qte>
+  </ResAlerte>
+  <ResAlerte alerte="8" res="2">
+    <qte>1600</qte>
+  </ResAlerte>
+</GRM>
